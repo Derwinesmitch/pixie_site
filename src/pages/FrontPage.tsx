@@ -1,5 +1,7 @@
 export default function FrontPage() {
+
     return(
-        <div>Pixies Website</div>
+
+            <div className="flex items-center justify-center h-screen w-screen">Pixies Website</div>
     )
 }
